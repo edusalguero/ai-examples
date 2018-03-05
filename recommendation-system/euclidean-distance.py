@@ -18,9 +18,8 @@ def distance(a, b):
     new_a = []
     new_b = []
 
-    '''
-    Find an remove zero values on arrays
-    '''
+
+#   Find an remove zero values on arrays
     for i in range(0, len(a)):
         if a[i] != 0 and b[i] != 0:
             new_a.append(a[i])
@@ -72,6 +71,9 @@ def print_similarities(S):
     print(table)
 
 
+"""
+The users reviews matrix
+"""
 usersReviews = np.array(
     [
         [0, 3, 1, 0, 4, 3, 5, 0],
