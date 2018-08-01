@@ -1,3 +1,6 @@
-# IA examples
+# AI examples
 
-A set of simple IA snippets using Python
+A set of simple AI snippets using Python
+
+
+TODO: add documentation and references
